@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="crystalexplode"
+version="1.0"
+displayName="Crystal Explode"
+description='''
+Automatically explodes End Crystals when placed.
+'''
